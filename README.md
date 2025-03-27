@@ -2,9 +2,8 @@
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
+- 📫 How to reach me -> kyohareda069@gmail.com / X: @DeepButNotLoud
 - 😄 Pronouns: Kyle
-- ⚡ Fun fact: 
 
 <!---
 kyohare2001/kyohare2001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
